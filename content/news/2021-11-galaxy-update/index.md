@@ -280,7 +280,7 @@ A workshop to build capacity in SARS-CoV-2 data analysis! It will be a 1-day eve
 
 Registration will open soon, stay tuned!
 
-![SARS-CoV-2 Data Analysis and Monitoring with Galaxy](sars-cov-2-workshop.png)
+![SARS-CoV-2 Data Analysis and Monitoring with Galaxy](/images/events/2021-12-sars-cov-2-training/sars-cov-2-workshop.png)
 
 </div>
 
